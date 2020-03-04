@@ -16,11 +16,11 @@ Among them, the most outstanding miners are the Top 10. Since one of the charact
 
  
 
-#####1. Historical ranking list (block height # 85085, including offline miners)
+##### 1. Historical ranking list (block height # 85085, including offline miners)
 
 ![img](/img/1.png) 
 
-#####2. List of current miner rankings (block height # 85097, Screenshots from the Filecoin testnet)
+##### 2. List of current miner rankings (block height # 85097, Screenshots from the Filecoin testnet)
 
 ![img](/img/2.png) 
 
@@ -28,11 +28,11 @@ Among them, the most outstanding miners are the Top 10. Since one of the charact
 
  
 
-##**Miner stability analysis**
+## **Miner stability analysis**
 
  
 
-#####The Growth Curve of historical Top10 miners.
+##### The Growth Curve of historical Top10 miners.
 
 ![img](/img/3.png) 
 
@@ -48,7 +48,7 @@ From the picture above, you can see:
 
  
 
-##**Miner efficiency analysis**
+## **Miner efficiency analysis**
 
  
 
@@ -62,12 +62,12 @@ In order to more clearly analyze the efficiency of each miner, we mainly analyze
 
  
 
-#####1  Analysis of miner packing efficiency above 600T
+##### 1  Analysis of miner packing efficiency above 600T
 
 Select t018985 and t01201 for comparison.
 
 
-###### (1) Determination of comparison intervals
+######  (1) Determination of comparison intervals
 
 - Block height 70577 ~ block height 74399, comparison of packing conditions within a period of nearly 2 days (see the figure below)
 
@@ -93,13 +93,13 @@ Select t018985 and t01201 for comparison.
 
  
 
-######（2）Comparison of packing rate
+###### （2）Comparison of packing rate
 
 ![img](/img/8.png) 
 
  
 
-######（3）Conclusion
+###### （3）Conclusion
 
 | Miner ID | Count of Packing | Packing Rate |
 | -------- | ---------------- | ------------ |
@@ -110,9 +110,9 @@ From the above date, we can get the conclusion that under the same computing pow
 
  
 
-#####2. Analysis of packing efficiency in 200T ～ 600T group
+##### 2. Analysis of packing efficiency in 200T ～ 600T group
 
-######（1）Determination of the comparison intervals
+###### （1）Determination of the comparison intervals
 
 - Block height 71645 ~ Block height 85085, the comparison of packaging in the period about 7 days
 
@@ -124,13 +124,13 @@ From the above date, we can get the conclusion that under the same computing pow
 
  
 
-######（2）Comparison of packing rate
+###### （2）Comparison of packing rate
 
 ![img](/img/10.png) 
 
  
 
-######（3）Conclusion
+###### （3）Conclusion
 
 | Miner ID | Effective storage Power | Count of packing | PackingRate | Rate/100T | Translate to count of packing/100T |
 | -------- | ----------------------- | ---------------- | ----------- | --------- | ---------------------------------- |
