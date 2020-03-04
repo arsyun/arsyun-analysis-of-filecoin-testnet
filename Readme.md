@@ -62,9 +62,10 @@ In order to more clearly analyze the efficiency of each miner, we mainly analyze
 
  
 
-#####1. Analysis of miner packing efficiency above 600T
+#####1  Analysis of miner packing efficiency above 600T
 
 Select t018985 and t01201 for comparison.
+
 
 ###### (1) Determination of comparison intervals
 
