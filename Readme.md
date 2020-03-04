@@ -156,7 +156,7 @@ In the 200T ~ 600T storage power group, results are as follows (based on a week'
 
  
 
-**Prospecting Filecoin—— blockchain-distributed cloud storage is NOW**
+## **Prospecting Filecoin—— blockchain-distributed cloud storage is NOW**
 
 Since entering the field of IPFS / Filecoin in November 2017, ARS has witnessed the update and iteration of its technology. We still remember that the earliest version of the Filecoin White Paper (2014) used POW as the consensus mechanism for block generation. The entire technical framework and economic model are also similar to Sia. However, with the development of Filecoin, the change is obvious—By replacing POW with Proof of Replication, Filecoin successfully turns unnecessary waste of energy into useful storage power, which is a huge leap forward in the history of blockchain development in terms of Block reward. Although Filecoin did not accept the mining pools at the beginning, with the passing by of time and the promotion of implementation practices, mining pools have become an important factor to improve the stability of Filecoin's network services. At the same time, the officials are sparing no effort to promote the design of large miners.
 
